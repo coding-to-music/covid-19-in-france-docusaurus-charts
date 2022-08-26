@@ -1,3 +1,36 @@
+# covid-19-in-france-docusaurus-charts
+
+# 🚀 Docusaurus Charts 🚀
+
+https://github.com/coding-to-music/covid-19-in-france-docusaurus-charts
+
+https://coding-to-music.github.io/covid-19-in-france-docusaurus-charts
+
+https://covid-19-in-france-docusaurus-charts.vercel.app
+
+From / By https://github.com/MisterFISHUP/covid-19-in-france
+
+https://covid-fr.misterfishup.com/en/charts
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/covid-19-in-france-docusaurus-charts.git
+git push -u origin main
+vercel --prod -y
+```
+
 # Daily Digest - COVID-19 IN FRANCE
 
 ![Daily Digest - COVID-19 IN FRANCE](./static/img/social_preview.png)
